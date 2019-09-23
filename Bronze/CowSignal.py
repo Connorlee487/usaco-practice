@@ -32,7 +32,7 @@ for x in range(int(firstIn[0])):
 
 for x in range(int(firstIn[0])):
     for a in range(int(firstIn[1])):
-        expand = fill(expand, x * multi, a * multi, expand[x * multi][a * multi], multi)
+        expand = fillNoMistakeYes(expand, x * multi, a * multi, expand[x * multi][a * multi], multi)
 
 for x in range(len(expand)):
     for a in range(len(expand[0])):

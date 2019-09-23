@@ -59,7 +59,7 @@ maximumSide = max(
 
 f = open('square.out', 'r')
 file_contents = f.read()
-print(maximumSide * maximumSide)
+#print(maximumSide * maximumSide)
 file.write(str(maximumSide * maximumSide))
 
 
