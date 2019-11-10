@@ -1,4 +1,5 @@
-# usaco-practice
-USACO practice
+# USACO Solutions
 
-Make some changes to your readme file.
+## My solutions 
+
+I post my solutions here so that other people can see my solutions and give me improvements.
